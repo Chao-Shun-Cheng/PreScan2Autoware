@@ -13,4 +13,3 @@ This projecy is to develop a combination of different development vehicle simula
 - ***Ubuntu 16.04***
 - ***ROS Kinetic***
 - ***Autoware 1.10***
-## How to launch
